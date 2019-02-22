@@ -1,0 +1,47 @@
+PDF.js in Mahara
+==================
+
+Website: http://mozilla.github.io/pdf.js/getting_started/#download
+Version: 1.9.426
+License: Apache License 2.0
+
+PDF.js is used in the Mahara to provide a javascript library for
+viewing PDF file
+
+Build Instructions:
+
+1. Have Node.JS installed.
+2. Clone the pdf.js git repo ( https://github.com/mozilla/pdf.js/ )
+3. Navigate into the repo, and run
+    npm install -g gulp-cli
+    npm install
+    gulp generic
+4. Copy the contents of build/generic into this directory.
+5. Minify build/pdf.js and build/pdf.worker.min.js (see next section for details)
+6. Make sure you can open and see a PDF via browser
+    {WWWROOT}/artefact/file/blocktype/pdf/js/pdfjs/web/viewer.html
+7. Update the template file htdocs/theme/raw/plugintype/artefact/file/blocktype/pdf/templates/pdf.tpl
+    based on htdocs/artefact/file/blocktype/pdf/js/pdfjs/web/viewer.html
+    and htdocs/artefact/file/blocktype/pdf/js/pdfjs/web/viewer.js
+
+Minify instructions:
+1. Install uglifyjs if you don't have: npm install uglify-js
+2. cd htdocs/artefact/file/blocktype/pdf/js/pdfjs/build/
+3. Run uglifyjs pdf.js -o pdf.min.js
+    and uglifyjs pdf.worker.js -o pdf.worker.min.js
+   Remove the files pdf.js and pdf.worker.js
+4. Change the path of pdf.js to pdf.min.js
+    In htdocs/artefact/file/blocktype/pdf/js/pdfjs/web/viewer.html
+5. Change the path of pdf.worker.js to pdf.worker.min.js
+    In htdocs/artefact/file/blocktype/pdf/js/pdfjs/web/viewer.js
+
+Changes:
+
+* Minify js files for faster loading
+* Use absolute paths in viewer.js
+* Open fileurl if defined
+* viewer.css additions to support viewing by non-JS users
+* viewer.css tweak to get the bottom of the display to show
+* viewer.css tweak to avoid horizontal scrollbar on default 3-column page layout
+* Hide the "open file" button in the toolbar
+* viewer.js tweak to show pdf menu on language selected in Mahara
