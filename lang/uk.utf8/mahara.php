@@ -300,8 +300,8 @@ $string ['profilecompleteness'] = 'Виконання профілю';
 $string ['profilecompletenesspreview'] = 'Попередній перегляд завершення профілю';
 $string ['profilecompletenesstips'] = 'Поради щодо завершення профілю';
 $string ['progressbargenerictask'] = array(
-	0 => 'Додати один: % 2 $ s',
-	1 => 'Додати % d: %s'
+	0 => 'Додати один: %2$s',
+	1 => 'Додати %d: %s'
 );
 $string ['profilecompletionforwhichinstitution'] = 'для';
 $string ['noprogressitems'] = 'Немає елементів завершення профілю для цієї установи.';

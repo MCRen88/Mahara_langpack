@@ -1,19 +1,13 @@
 <!-- @license http://www.gnu.org/copyleft/gpl.html GNU GPL version 3 or later -->
 <!-- @copyright For copyright information on Mahara, please see the README file distributed with this software. -->
-<h3>If a user is no longer present in LDAP</h3>
-<p>This setting determines what the cron will do if a user in your
-institution has no matching record in your LDAP server.</p>
-<p><b>Note:</b> This setting only applies to users who have this authentication
-instance as their authentication method.</p>
+<h3> Якщо користувач більше не присутній у LDAP </h3>
+<p> Це налаштування визначає, що буде робити cron, якщо користувач у вашій установі не має відповідного запису на вашому сервері LDAP. </p>
+<p> <b> Примітка: </b> Це налаштування застосовується лише до користувачів, які мають цей примірник автентифікації як метод автентифікації. </p>
 <dl>
-<dt>Do nothing</dt>
-<dd>No action will be taken. (This is the recommended setting.)</dd>
-<dt>Suspend user's account</dt>
-<dd>The user's account will be suspended. The user will no longer be able to log in,
-and their content and pages will not be viewable. However, none of their data will be
-deleted, and the user can be un-suspended by the cron when their LDAP record reappears,
-or manually by an administrator.</dd>
-<dt>Delete user's account and all content</dt>
-<dd><b>Use with caution!</b> The user's account will be deleted, along with all their content and pages. The data
-is fully deleted from the server, so this action requires a server backup to reverse.</dd>
+<dt> Нічого не робити </dt>
+<dd> Не буде вжито жодних дій. (Це рекомендована установка.) </dd>
+<dt> Призупинити обліковий запис користувача </dt>
+<dd> Обліковий запис користувача буде призупинено. Користувач більше не зможе входити в систему, а його вміст і сторінки неможливо переглянути. Однак жодна їхня інформація не буде видалена, і користувач може бути призупинений на cron, коли їхній запис LDAP з'явиться знову або вручну адміністратором. </dd>
+<dt> Видалити обліковий запис користувача та весь вміст </dt>
+<dd> <b> Використовуйте з обережністю! </b> Обліковий запис користувача буде видалено разом з усім вмістом і сторінками. Дані повністю видаляються з сервера, тому для виконання цієї дії потрібно зробити резервну копію сервера. </dd>
 </dl>
