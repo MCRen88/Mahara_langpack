@@ -14,5 +14,5 @@ defined('INTERNAL') || die();
 $string ['name'] = 'Курс';
 $string ['admin'] = 'Адміністратор';
 $string ['tutor'] = 'Викладач';
-$string ['member'] = 'Член';
+$string ['member'] = 'Користувач';
 $string ['youaregrouptutor'] = 'Ви вихователь у цій групі.';

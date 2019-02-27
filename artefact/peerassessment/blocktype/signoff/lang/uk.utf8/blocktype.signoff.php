@@ -31,8 +31,8 @@ $string ['verifypagedesc'] = 'Виберіть "Так", щоб перекона
 
 $string ['updatesignoff'] = 'Оновити вилучення сторінки';
 $string ['updateverify'] = 'Оновити сторінку перевірки';
-$string ['removedverifynotificationsubject'] = 'Перевірка % s видалена';
-$string ['removedverifynotification'] = 'Власник сторінки % s видаляє їхню реєстрацію. Тому вашу перевірку також було видалено. Перейдіть на сторінку, щоб дізнатися, чи готовий він бути позначений як підтверджений знову. ';
+$string ['removedverifynotificationsubject'] = 'Перевірка %s видалена';
+$string ['removedverifynotification'] = 'Власник сторінки %s видаляє їхню реєстрацію. Тому вашу перевірку також було видалено. Перейдіть на сторінку, щоб дізнатися, чи готовий він бути позначений як підтверджений знову. ';
 $string ['signoffviewupdated'] = 'Оновлення статусу виходу';
 $string ['verifyviewupdated'] = 'Статус перевірки оновлено';
 $string ['wrongsignoffviewrequest'] = 'У вас немає дозволу на виконання запитаної дії';

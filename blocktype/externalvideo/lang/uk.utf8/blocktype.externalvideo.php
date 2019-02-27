@@ -39,5 +39,5 @@ $string ['wikieducator'] = 'WikiEducator';
 
 // Вбудовування служб
 $string ['validembedservices'] = 'Підтримуються наступні <strong> вбудовані служби </strong> для вбудовування вмісту:';
-$string ['allowervices'] = 'Немає, % senable embed services % s';
+$string ['allowervices'] = 'Немає, %s enable embed services %s';
 $string ['embedly'] = 'Вставити';

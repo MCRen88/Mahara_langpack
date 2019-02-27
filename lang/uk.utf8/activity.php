@@ -47,8 +47,8 @@ $string ['marksasread'] = 'Позначено ваші сповіщення як
 $string ['failedtomarkasread'] = 'Не вдалося позначити ваші сповіщення як прочитані';
 
 $string ['deletednotifications1'] = array(
-0 => 'Видалено сповіщення% s',
-1 => 'Видалені повідомлення% s'
+	0 => 'Видалено сповіщення %s',
+	1 => 'Видалені повідомлення %s'
 );
 $string ['failedtodeletenotifications'] = 'Не вдалося видалити ваші сповіщення';
 $string ['stopmonitoring'] = 'Зупинити моніторинг';
@@ -64,13 +64,13 @@ $string ['newwatchlistmessageunsubscribe'] = 'Щоб припинити отри
 $string ['nonamegiven'] = 'не вказано ім"я';
 
 $string ['newviewsubject'] = 'Нова сторінка створена';
-$string ['newviewmessage'] = '% s створив нову сторінку "%s"';
+$string ['newviewmessage'] = '%s створив нову сторінку "%s"';
 
 $string ['newcontactusfrom'] = 'Нові контакти з';
 $string ['newcontactus'] = 'Нові контакти з нами';
 
 $string ['newcollectionaccessmessage'] = 'Ви були додані до списку доступу для колекції "%s" від %s';
-$string ['newcollectionaccessmessageviews'] = 'Ви були додані до списку доступу для сторінок "% s" в колекції "%3$s" від %2$s';
+$string ['newcollectionaccessmessageviews'] = 'Ви були додані до списку доступу для сторінок "%s" в колекції "%3$s" від %2$s';
 $string ['newviewaccessmessage'] = 'Ви були додані до списку доступу для сторінки "%s" від %s';
 $string ['newviewaccessmessageviews'] = 'Ви були додані до списку доступу для сторінок "%s" від %s';
 $string ['newcollectionaccessmessagenoowner'] = 'Ви були додані до списку доступу для колекції "%s"';
@@ -93,7 +93,7 @@ $string ['objectionablecontentviewartefact'] = 'Неприйнятний вмі�
 
 $string ['objectionablecontentviewhtml'] = '<div style = "padding: 0.5em 0; border-bottom: 1px solid # 999;" >
 
-<div style = "margin: 1em 0;">% s </div>
+<div style = "margin: 1em 0;">%s </div>
 
 <div style = "font-size: менше; border-top: 1px solid # 999;">
 <p> Скарга стосується: <a href="%s">%s </a> </p>
@@ -134,7 +134,7 @@ $string ['objectionablecontentviewartefacttext'] = 'Неприпустимий �
 $string ['objectionablereviewview'] = 'Огляд небажаного вмісту на сторінці "%s", запитаний %s';
 $string ['objectionablereviewviewartefact'] = 'Огляд небажаного вмісту на сторінці "%s" у "%s", запитаному %s';
 
-$string ['objectionablereviewviewhtml'] = '<div style = "padding: 0.5em 0; border-bottom: 1px solid # 999;"> Огляд небажаного вмісту за запитом "%s" від% s <br> %s < / div>
+$string ['objectionablereviewviewhtml'] = '<div style = "padding: 0.5em 0; border-bottom: 1px solid # 999;"> Огляд небажаного вмісту за запитом "%s" від %s <br> %s < / div>
 
 <div style = "margin: 1em 0;">%s </div>
 
@@ -154,7 +154,7 @@ $string ['objectionablereviewviewtext'] = 'Огляд небажаного вм�
 Щоб переглянути профіль власника, перейдіть за цим посиланням:
 %s ';
 
-$string ['objectionablereviewviewartefacthtml'] = '<div style = "padding: 0.5em 0; border-bottom: 1px solid # 999;"> Огляд небажаного вмісту "%s" у "%s", запитаний% s < br>%s </div>
+$string ['objectionablereviewviewartefacthtml'] = '<div style = "padding: 0.5em 0; border-bottom: 1px solid # 999;"> Огляд небажаного вмісту "%s" у "%s", запитаний %s < br>%s </div>
 
 <div style = "margin: 1em 0;">%s </div>
 

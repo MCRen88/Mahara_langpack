@@ -11,7 +11,7 @@
 
 defined('INTERNAL') || die();
 
-$string ['addresstag'] = 'Адреса:% s';
+$string ['addresstag'] = 'Адреса:%s';
 $string ['address'] = 'Адреса';
 $string ['title'] = 'Моя вся резюме';
 $string ['description'] = 'Швидкий спосіб показати всю вашу резюме';

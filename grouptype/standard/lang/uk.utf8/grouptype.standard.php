@@ -13,4 +13,4 @@ defined('INTERNAL') || die();
 
 $string ['name'] = 'Стандартний';
 $string ['admin'] = 'Адміністратор';
-$string ['member'] = 'Член';
+$string ['member'] = 'Користувач';

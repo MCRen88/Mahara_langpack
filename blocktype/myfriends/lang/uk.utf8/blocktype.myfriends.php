@@ -12,6 +12,6 @@
 defined('INTERNAL') || die();
 
 $string ['title'] = 'Мої друзі';
-$string ['otherusertitle'] = "друзі % s";
+$string ['otherusertitle'] = "друзі %s";
 $string ['description'] = 'Показати друзів';
-$string ['numberoffriends'] = '(% s з % s)';
+$string ['numberoffriends'] = '(%s з %s)';

@@ -26,24 +26,24 @@ $string ['thisassessmentisprivate'] = 'Збережено як чернетку'
 $string ['assessmentremoved'] = 'Оцінка експертів видалена';
 
 // сповіщення про оцінку
-$string ['deletednotificationsubject'] = 'Експертна оцінка на сторінці "% s" видалена ';
-$string ['deletedauthornotification1'] = 'Ваш експерт-оцінювач, % s, видалив оцінку на сторінці "% s ". Вони написали: n % s';
-$string ['newassessmentnotificationsubject'] = 'Нова оцінка однолітків на сторінці "% s"';
-$string ['feedbacknotificationhtml'] = '<div style =" padding: 0.5em 0; border-bottom: 1px solid # 999; "> <strong> % s додав оцінку " peer " на % s </strong> <br>% s </div>
+$string ['deletednotificationsubject'] = 'Експертна оцінка на сторінці "%s" видалена ';
+$string ['deletedauthornotification1'] = 'Ваш експерт-оцінювач, %s, видалив оцінку на сторінці "%s ". Вони написали: n %s';
+$string ['newassessmentnotificationsubject'] = 'Нова оцінка однолітків на сторінці "%s"';
+$string ['feedbacknotificationhtml'] = '<div style =" padding: 0.5em 0; border-bottom: 1px solid # 999; "> <strong> %s додав оцінку " peer " на %s </strong> <br>%s </div>
 
-<div style = "margin: 1em 0;">% s </div>
+<div style = "margin: 1em 0;">%s </div>
 
 <div style = "font-size: менше; border-top: 1px solid # 999; \ t
 <p> <a href=\t
 </div> ';
-$string ['feedbacknotificationtext1'] = '% s додав оцінку " peer " на % s
-% s
+$string ['feedbacknotificationtext1'] = '%s додав оцінку " peer " на %s
+%s
 -------------------------------------------------- ----------------------
 
-% s
+%s
 
 -------------------------------------------------- ----------------------
 Щоб переглянути цю оцінку в режимі онлайн, перейдіть за цим посиланням:
-% s ';
+%s ';
 $string ['typeassessmentfeedback'] = 'Оцінка однолітків';
 $string ['nopeerassessmentrequired'] = 'Ви не можете бачити вміст на цій сторінці, оскільки він не вимагає оцінки.';

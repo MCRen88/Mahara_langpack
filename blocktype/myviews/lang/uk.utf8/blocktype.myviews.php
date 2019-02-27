@@ -12,5 +12,5 @@
 defined('INTERNAL') || die();
 
 $string ['title1'] = 'Мої портфоліо';
-$string ['otherusertitle1'] = "Портфоліо % s";
+$string ['otherusertitle1'] = "Портфоліо %s";
 $string ['description1'] = 'Відображати всі ваші портфоліо, видимі для користувача, який переглядає ваш профіль';

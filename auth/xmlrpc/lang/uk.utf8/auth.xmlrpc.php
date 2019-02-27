@@ -17,5 +17,5 @@ $string ['description'] = 'Перевірка автентичності чер�
 $string ['notusable'] = 'Будь ласка, встановіть розширення XML-RPC, Curl і OpenSSL PHP.';
 $string ['networkingdisabledonthissite'] = 'На цьому сайті вимкнено мережу.';
 $string ['networkservers'] = 'Мережеві сервери';
-$string ['youhaveloggedinfrom1'] = 'Повернутися до <a href="%s">% s </a>';
+$string ['youhaveloggedinfrom1'] = 'Повернутися до <a href="%s">%s </a>';
 $string ['authloginmsgtitle'] = 'Неправильне ім"я користувача';

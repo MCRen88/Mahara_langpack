@@ -18,5 +18,5 @@ $string ['group'] = 'Група';
 $string ['nogroupstochoosefrom'] = 'Вибачте, немає груп для вибору';
 $string ['poststoshow'] = 'Максимальна кількість повідомлень для показу';
 $string ['poststoshowdescription'] = 'Між 1 і 100';
-$string ['recentforumpostsforgroup'] = "Останні повідомлення на форумі для % s";
+$string ['recentforumpostsforgroup'] = "Останні повідомлення на форумі для %s";
 $string ['defaulttitledescription'] = 'Заголовок за умовчанням буде створено, якщо ви залишите поле заголовка порожнім';
