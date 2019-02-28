@@ -134,8 +134,8 @@ $string ['addedtongroupsmessage'] = array(
     1 => '"%2" додав вас до груп: n \ t',
 );
 $string ['removedfromngroupsmessage'] = array(
-    0 => '"%2" s видалив вас з групи: n \ t',
-    1 => '"%2" видалив вас з груп: n n 3 3 s \ t',
+    0 => '"%2s" видалив вас з групи: n \ t',
+    1 => '"%2s" видалив вас з груп: n n 3 3 s \ t',
 );
 $string ['cantremovememberfromgroup'] = 'Ви не можете видалити користувачів з %s.';
 $string ['current'] = 'Поточний';
