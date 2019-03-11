@@ -11,7 +11,7 @@
 
 defined('INTERNAL') || die();
 
-$string ['title'] = 'Примітка';
+$string ['title'] = 'Нотатка';
 $string ['description'] = 'Додавання приміток до вашої сторінки';
 $string ['blockcontent'] = 'Блокувати вміст';
 $string ['usecontentfromanothertextbox1'] = 'Використовувати вміст з іншої нотатки';

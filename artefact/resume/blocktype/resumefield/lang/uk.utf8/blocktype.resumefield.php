@@ -14,6 +14,6 @@ defined('INTERNAL') || die();
 $string ['title'] = 'Одне поле резюме';
 $string ['description'] = 'Відображення будь-якої інформації про резюме';
 $string ['fieldtoshow'] = 'Поле для показу';
-$string ['filloutyourresume'] = '% s Заповніть резюме % s, щоб додати більше полів.';
+$string ['filloutyourresume'] = '%s Заповніть резюме %s, щоб додати більше полів.';
 $string ['noresumeitemselectone'] = 'Не вибрано жодного резюме';
-$string ['defaulttitledescription'] = 'Якщо ви залишите це поле порожнім, буде використано ім"я поля.';
+$string ['defaulttitledescription'] = 'Якщо ви залишите це поле порожнім, буде використано ім\'я поля.';

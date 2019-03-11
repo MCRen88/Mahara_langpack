@@ -16,11 +16,11 @@ $string ['pluginname'] = 'Резюме';
 // Вкладки
 $string ['introduction'] = 'Вступ';
 $string ['educationandemployment'] = 'Освіта та зайнятість';
-$string ['achievement'] = 'Досягнення';
+$string ['achievements'] = 'Досягнення';
 $string ['goals'] = 'Цілі';
 $string ['skills'] = 'Навички';
 $string ['goalsandskills'] = 'Цілі та навички';
-$string ['interest'] = 'Інтереси';
+$string ['interests'] = 'Інтереси';
 $string ['license'] = 'Ліцензія';
 $string ['mygoals'] = 'Мої цілі';
 $string ['myskills'] = 'Мої навички';

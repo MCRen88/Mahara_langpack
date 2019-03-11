@@ -89,7 +89,7 @@ $string ['savecollection'] = 'Зберегти колекцію';
 $string ['smartevidence'] = 'SmartEvidence ';
 $string ['smartevidencedesc'] = 'Адміністрування фреймворків SmartEvidence';
 $string ['update'] = 'Оновити';
-$string ['usecollectionname'] = 'Використовувати ім"я колекції?';
+$string ['usecollectionname'] = 'Використовувати ім\'я колекції?';
 $string ['usecollectionnamedesc'] = 'Якщо ви хочете використовувати назву колекції замість заголовка блоку, залиште це позначкою.';
 $string ['numviewsincollection'] = array(
 	'%s сторінка в колекції',

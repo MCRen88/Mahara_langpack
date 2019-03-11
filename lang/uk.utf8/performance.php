@@ -11,17 +11,17 @@
 
 defined('INTERNAL') || die();
 
-$string ['memoryused'] = 'Пам"ять';
+$string ['memoryused'] = 'Пам\'ять';
 $string ['timeused'] = 'Час виконання';
 $string ['seconds'] = 'секунди';
 $string ['included'] = 'Включені файли';
 $string ['dbqueries'] = 'Запити DB';
-$string ['reads'] = 'читається';
+$string ['reads'] = 'читає';
 $string ['writes'] = 'записує';
-$string ['cached'] = 'кешований';
+$string ['cached'] = 'кешовано';
 $string ['ticks'] = 'ticks';
 $string ['sys'] = 'sys';
 $string ['user'] = 'користувач';
-$string ['cuser'] = 'користувач';
+$string ['cuser'] = 'користувачеві';
 $string ['csys'] = 'csys';
 $string ['serverload'] = 'Завантаження сервера';
